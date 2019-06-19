@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "name": "Strawberry",
+    "image": "https://image.flaticon.com/icons/svg/135/135717.svg"
+  },
+  {
+    "id": 2,
+    "name": "Apple",
+    "image": "https://image.flaticon.com/icons/svg/135/135728.svg"
+  },
+  {
+    "id": 3,
+    "name": "Grape",
+    "image": "https://image.flaticon.com/icons/svg/135/135542.svg"
+  },
+  {
+    "id": 4,
+    "name": "Orange",
+    "image": "https://image.flaticon.com/icons/svg/135/135620.svg"
+  },
+  {
+    "id": 5,
+    "name": "Pear",
+    "image": "https://image.flaticon.com/icons/svg/135/135576.svg"
+  },
+  {
+    "id": 6,
+    "name": "Pineapple",
+    "image": "https://image.flaticon.com/icons/svg/135/135598.svg"
+  },
+  {
+    "id": 7,
+    "name": "Raspberry",
+    "image": "https://image.flaticon.com/icons/svg/135/135706.svg"
+  },
+  {
+    "id": 8,
+    "name": "Peach",
+    "image": "https://image.flaticon.com/icons/svg/135/135554.svg"
+  },
+  {
+    "id": 9,
+    "name": "Cherries",
+    "image": "https://image.flaticon.com/icons/svg/135/135695.svg"
+  },
+  {
+    "id": 10,
+    "name": "Watermelon",
+    "image": "https://image.flaticon.com/icons/svg/135/135739.svg"
+  },
+  {
+    "id": 11,
+    "name": "Eggplant",
+    "image": "https://image.flaticon.com/icons/svg/135/135700.svg"
+  },
+  {
+    "id": 12,
+    "name": "Lemon",
+    "image": "https://image.flaticon.com/icons/svg/135/135750.svg"
+  }
+]

@@ -1,0 +1,25 @@
+.title {
+  width: 100%;
+  text-align: center;
+  font-size: 3rem;
+  text-decoration: underline;
+  color: #2A77AE;
+  margin-bottom: 50px;
+}
+
+.logo-wrapper {
+  width: 90%;
+  margin-top: -80px;
+  margin-bottom: 20px;
+  height:230px;
+}
+
+.logo {
+  max-height: 400px;
+  display: block;
+  margin: auto;
+  max-width: 100%;
+  -webkit-transform: rotateZ(-26deg);
+  -ms-transform: rotateZ(-26deg);
+  transform: rotateZ(-26deg);
+}

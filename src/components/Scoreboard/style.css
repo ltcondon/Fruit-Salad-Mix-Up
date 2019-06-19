@@ -1,0 +1,14 @@
+
+.score {
+    font-family: 'Bubblegum Sans', cursive;
+    color: rgba(221, 42, 117);
+    text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
+    font-size: 2.5em
+  }
+  
+  .time {
+    font-family: 'Bubblegum Sans', cursive;
+    color: rgba(78, 228, 48);
+    text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
+    font-size: 2.5em
+  }
