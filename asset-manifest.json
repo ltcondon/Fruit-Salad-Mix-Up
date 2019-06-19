@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/fruit-salad-mix-up/static/css/main.15cdfd0b.chunk.css",
-    "main.js": "/fruit-salad-mix-up/static/js/main.77cea052.chunk.js",
-    "main.js.map": "/fruit-salad-mix-up/static/js/main.77cea052.chunk.js.map",
-    "runtime~main.js": "/fruit-salad-mix-up/static/js/runtime~main.93ef4225.js",
-    "runtime~main.js.map": "/fruit-salad-mix-up/static/js/runtime~main.93ef4225.js.map",
-    "static/js/2.710d8ec4.chunk.js": "/fruit-salad-mix-up/static/js/2.710d8ec4.chunk.js",
-    "static/js/2.710d8ec4.chunk.js.map": "/fruit-salad-mix-up/static/js/2.710d8ec4.chunk.js.map",
-    "index.html": "/fruit-salad-mix-up/index.html",
-    "precache-manifest.a522e676bfd630c06e38d83ce8a85824.js": "/fruit-salad-mix-up/precache-manifest.a522e676bfd630c06e38d83ce8a85824.js",
-    "service-worker.js": "/fruit-salad-mix-up/service-worker.js",
-    "static/css/main.15cdfd0b.chunk.css.map": "/fruit-salad-mix-up/static/css/main.15cdfd0b.chunk.css.map",
-    "static/media/Cuttingboard-final2.png": "/fruit-salad-mix-up/static/media/Cuttingboard-final2.516f4aa9.png",
-    "static/media/index.css": "/fruit-salad-mix-up/static/media/countertop.a5ed14b1.png"
+    "main.css": "/Fruit-Salad-Mix-Up/static/css/main.604eea64.chunk.css",
+    "main.js": "/Fruit-Salad-Mix-Up/static/js/main.77cea052.chunk.js",
+    "main.js.map": "/Fruit-Salad-Mix-Up/static/js/main.77cea052.chunk.js.map",
+    "runtime~main.js": "/Fruit-Salad-Mix-Up/static/js/runtime~main.5c906d51.js",
+    "runtime~main.js.map": "/Fruit-Salad-Mix-Up/static/js/runtime~main.5c906d51.js.map",
+    "static/js/2.710d8ec4.chunk.js": "/Fruit-Salad-Mix-Up/static/js/2.710d8ec4.chunk.js",
+    "static/js/2.710d8ec4.chunk.js.map": "/Fruit-Salad-Mix-Up/static/js/2.710d8ec4.chunk.js.map",
+    "index.html": "/Fruit-Salad-Mix-Up/index.html",
+    "precache-manifest.38123920ef74bff0e1f3939e3e1b5eb3.js": "/Fruit-Salad-Mix-Up/precache-manifest.38123920ef74bff0e1f3939e3e1b5eb3.js",
+    "service-worker.js": "/Fruit-Salad-Mix-Up/service-worker.js",
+    "static/css/main.604eea64.chunk.css.map": "/Fruit-Salad-Mix-Up/static/css/main.604eea64.chunk.css.map",
+    "static/media/Cuttingboard-final2.png": "/Fruit-Salad-Mix-Up/static/media/Cuttingboard-final2.516f4aa9.png",
+    "static/media/index.css": "/Fruit-Salad-Mix-Up/static/media/countertop.a5ed14b1.png"
   }
 }
